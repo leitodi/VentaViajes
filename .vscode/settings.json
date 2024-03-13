@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.autoReplies": {
+        
+    },
+    "eslint.codeActionsOnSave.rules": null,
+    "jshint.config": "",
+    "jshint.options": {"esversion": 6}
+}
